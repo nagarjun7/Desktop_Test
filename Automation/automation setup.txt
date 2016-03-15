@@ -1,7 +1,0 @@
-1. jdk, jre 8u45 32 bit
-2. apache ant set class path - 1.9.6
-3. ALM wrapper project/ in lib td connect, register with OTA client
-4. register jacob dll to proper location based on the script
-5. system environment for ant_home, java_home and classpath.
-6. Import automation_july17 into eclipse and set class path add from selenium workspace
-7. servicenowbat folder in E drive should have the execuable.
